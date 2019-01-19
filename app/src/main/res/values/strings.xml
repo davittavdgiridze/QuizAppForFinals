@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuizAppFinals</string>
+    <string name="question_string">questionString</string>
+    <string name="answer">answer</string>
+</resources>
